@@ -1,3 +1,6 @@
+**Deployement link:** [https://eterna-assignment-frontend.vercel.app/](url)
+
+
 # Axiom Trade - Token Discovery Table
 
 A pixel-perfect replica of Axiom Trade's token discovery table built with Next.js 14, TypeScript, and Tailwind CSS.
