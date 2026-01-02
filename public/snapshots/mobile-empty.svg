@@ -1,0 +1,6 @@
+<svg width="320" height="300" viewBox="0 0 320 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="300" fill="black"/>
+  <circle cx="160" cy="120" r="30" fill="#18181b"/>
+  <text x="160" y="180" fill="#a1a1aa" font-family="sans-serif" font-weight="bold" font-size="14" text-anchor="middle">No tokens found</text>
+  <text x="160" y="200" fill="#71717a" font-family="sans-serif" font-size="10" text-anchor="middle">Try adjusting your filters</text>
+</svg>

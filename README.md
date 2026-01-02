@@ -22,7 +22,19 @@ A pixel-perfect replica of Axiom Trade's token discovery table built with Next.j
 - **Responsive Design**: Fluid layout supporting widths down to 320px. The UI adapts from a multi-column kanban view on desktop to a touch-friendly mobile layout with horizontal snap-scrolling.
 - **Auto-Layout Snapshots**:
   - **Mobile (320px+)**: Single-column view with category snap-scrolling and condensed navigation.
+    ![Mobile Layout](./public/snapshots/mobile-snapshot.svg)
   - **Desktop (1024px+)**: Full triple-column view for maximum token visibility.
+    ![Desktop Layout](./public/snapshots/desktop-snapshot.svg)
+
+### Functional Snapshots (Mobile Gallery)
+
+| Feature | Snapshot | Feature | Snapshot |
+| :--- | :--- | :--- | :--- |
+| **Search** | ![Search](./public/snapshots/mobile-search.svg) | **Filters** | ![Filters](./public/snapshots/mobile-filters.svg) |
+| **Sort** | ![Sort](./public/snapshots/mobile-sort.svg) | **Token Details** | ![Popover](./public/snapshots/mobile-popover.svg) |
+| **Trade** | ![Trade](./public/snapshots/mobile-trade.svg) | **Watchlist** | ![Watchlist](./public/snapshots/mobile-watchlist.svg) |
+| **Loading** | ![Loading](./public/snapshots/mobile-loading.svg) | **Audit** | ![Audit](./public/snapshots/mobile-audit.svg) |
+| **Empty** | ![Empty](./public/snapshots/mobile-empty.svg) | **Error** | ![Error](./public/snapshots/mobile-error.svg) |
 
 ## Tech Stack
 

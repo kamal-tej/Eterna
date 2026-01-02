@@ -1,0 +1,6 @@
+<svg width="320" height="100" viewBox="0 0 320 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="100" fill="black"/>
+  <path d="M15 15L18 21H25L20 25L22 32L15 28L8 32L10 25L5 21H12L15 15Z" fill="#eab308"/>
+  <text x="40" y="28" fill="white" font-family="sans-serif" font-weight="bold" font-size="14">SOL</text>
+  <text x="40" y="42" fill="#71717a" font-family="sans-serif" font-size="10">Watching...</text>
+</svg>
